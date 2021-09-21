@@ -1,4 +1,4 @@
-# TodoApp - [GitHub Page](https://alesyt0h.github.io/javascript-todoApp/#/)
+# TodoApp - [GitHub Page](https://alesyt0h.github.io/javascript-todoApp/)
 
 <h3 align="center">Preview</h3>
 <p align="center">
